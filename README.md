@@ -1,33 +1,29 @@
 # Tom Vellavoor Saji
 
-Lead AI Engineer focused on Azure AI, agentic systems, RAG, and production AI platforms.
+I’m a Lead AI Engineer working across Azure AI, agent systems, retrieval, and real-world product delivery.
 
-I build AI systems that need to work under real enterprise constraints, not just in demos. My work spans architecture and hands-on delivery across agent workflows, retrieval systems, document intelligence pipelines, and real-time AI experiences.
+Most of my recent work has been around building AI systems that can actually fit into enterprise environments: multi-step workflows, document pipelines, retrieval-backed applications, real-time interactions, and the cloud infrastructure around them.
 
-## What I Work On
+## What I Usually Work On
 
-- Production agentic systems with explicit workflow orchestration
-- RAG and knowledge workflows for enterprise search and grounded responses
-- Document intelligence pipelines for extraction, validation, and review
-- Real-time AI systems involving speech, streaming, and interactive experiences
-- Azure-first platform architecture for scalable AI applications
+- Agent workflows and orchestration
+- RAG systems and knowledge retrieval
+- Document intelligence and review pipelines
+- Real-time AI experiences across speech and streaming
+- Backend and platform architecture for AI products on Azure
 
-## Core Areas
+## Tech I Use Often
 
 - Azure OpenAI, Azure AI Search, Document Intelligence, Functions, Container Apps
-- LangGraph, workflow design, tool execution, and stateful orchestration
-- FastAPI, Python, TypeScript, React, and service-oriented backend design
-- Retrieval architecture, semantic caching, and cloud-native AI delivery
+- LangGraph, FastAPI, Python, TypeScript, React
+- Retrieval pipelines, service integrations, and cloud architecture
 
-## Working Style
+## How I Like Building
 
-- Architecture plus implementation
-- Production systems over toy demos
-- Clear workflows, service boundaries, and operational thinking
-- Outcome-focused engineering instead of tool-led experimentation
+I care a lot about clear system design, reliable delivery, and keeping the implementation close to the business problem. I enjoy working across the full path from architecture and backend systems to product-facing experiences.
 
-## Current Focus
+## What You’ll See Here
 
-I am shaping public case studies around production AI architecture, agent runtimes, retrieval systems, and enterprise workflow automation.
+This profile is where I’m gradually turning my recent work into cleaner public case studies and reusable projects.
 
-More project detail will be added through pinned repositories and rewritten project READMEs.
+Pinned repositories will be the best place to start.
