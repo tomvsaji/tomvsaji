@@ -1,29 +1,40 @@
-# Tom Vellavoor Saji
+# Hi, I'm Tom 👋
 
-I’m a Lead AI Engineer working across Azure AI, agent systems, retrieval, and real-world product delivery.
+📍 Qatar &nbsp;|&nbsp; 🤖 Lead AI Engineer &nbsp;|&nbsp; Azure AI · LangGraph · RAG · Real-time systems
 
-Most of my recent work has been around building AI systems that can actually fit into enterprise environments: multi-step workflows, document pipelines, retrieval-backed applications, real-time interactions, and the cloud infrastructure around them.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## What I Usually Work On
+I build AI systems that hold up under real enterprise constraints — multi-step agent workflows, document intelligence pipelines, retrieval-backed applications, and the real-time cloud infrastructure around them. My focus is on the gap between prototype AI demos and actual internal tooling that teams can operate and extend.
 
-- Agent workflows and orchestration
-- RAG systems and knowledge retrieval
-- Document intelligence and review pipelines
-- Real-time AI experiences across speech and streaming
-- Backend and platform architecture for AI products on Azure
+---
 
-## Tech I Use Often
+## What I'm Building
 
-- Azure OpenAI, Azure AI Search, Document Intelligence, Functions, Container Apps
-- LangGraph, FastAPI, Python, TypeScript, React
-- Retrieval pipelines, service integrations, and cloud architecture
+- 📄 [workflow-review-automation](https://github.com/tomvsaji/workflow-review-automation) — End-to-end document review pipeline: OCR → structured extraction → validation → reviewer dashboard
+- 🔍 [text-to-sql-agent](https://github.com/tomvsaji/text-to-sql-agent) — Natural language to SQL with LangGraph, read-only enforcement, and CTE-based row scoping
+- 🧱 [ui-form-based-agent-builder](https://github.com/tomvsaji/ui-form-based-agent-builder) — Build and configure agents through a form-based UI flow
+- 🔗 [langchain-agent](https://github.com/tomvsaji/langchain-agent) — LangChain agent with tools and retrieval
 
-## How I Like Building
+---
 
-I care a lot about clear system design, reliable delivery, and keeping the implementation close to the business problem. I enjoy working across the full path from architecture and backend systems to product-facing experiences.
+## What I Work With
 
-## What You’ll See Here
+| Area | Tools |
+|---|---|
+| Agent orchestration | LangGraph, LangChain, Celery, Redis |
+| AI services | Azure OpenAI, Azure Document Intelligence, Azure AI Search |
+| Backend | FastAPI, Python, SQLAlchemy, PostgreSQL |
+| Frontend | React, TypeScript, Vite, Tailwind CSS |
+| Infrastructure | Azure Container Apps, Functions, Docker Compose |
 
-This profile is where I’m gradually turning my recent work into cleaner public case studies and reusable projects.
+---
 
-Pinned repositories will be the best place to start.
+## Get In Touch
+
+🌐 [tomvsaji.com](https://tomvsaji.com) &nbsp;·&nbsp; 𝕏 [@tomvsaji2](https://twitter.com/tomvsaji2)
